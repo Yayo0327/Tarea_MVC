@@ -101,3 +101,5 @@ Este error puede aparecer cada vez que se da una sobrecarga en el servidor o cua
 El código 504 también incida un error de comunicación entre dos servidores al igual que el error 502. En este caso particular se reconoce que el servidor de menor nivel no ha recibido una respuesta en el tiempo permitido por el servidor ascendente al cual ha accedido.
 ### Referencias
 https://developer.mozilla.org/es/docs/Web/HTTP/Methods
+https://blog.aulaformativa.com/significado-codigos-de-error-http-comunes/
+https://yosoy.dev/peticiones-http-get-post-put-delete-etc/
