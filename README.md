@@ -1,2 +1,2 @@
-[Tarea de MVC](/mvc)
-[Tarea de HTTP](/metodosHTTP)
+1. [Tarea de MVC](/mvc)
+2. [Tarea de HTTP](/metodosHTTP)
